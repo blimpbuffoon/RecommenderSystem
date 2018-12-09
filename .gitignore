@@ -56,6 +56,13 @@ coverage.xml
 local_settings.py
 db.sqlite3
 
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
 # Flask stuff:
 instance/
 .webassets-cache
